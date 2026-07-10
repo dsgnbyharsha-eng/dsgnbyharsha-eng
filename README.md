@@ -23,7 +23,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 <table border="0">
   <tr>
     <!-- Left Column: Forced to be 700px wide -->
-    <td valign="top" width="700">
+    <td valign="middle" width="700">
       <ul>
         <li>📊 Learning Data Analytics & Data Visualization</li>
         <li>🐍 Improving Python & SQL</li>
