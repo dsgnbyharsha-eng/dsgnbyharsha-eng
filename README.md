@@ -30,27 +30,29 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 # 🛠 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c" />
 </p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
