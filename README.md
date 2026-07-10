@@ -32,7 +32,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 <table>
 <tr>
-<td valign="center" width="100%">
+<td valign="top" width="100%">
 
 ### Languages
 
@@ -42,7 +42,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 </td>
 
-<td valign="center" width="100%">
+<td valign="top" width="100%">
 
 ### Tools
 
