@@ -20,10 +20,10 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 ## 🌱 Currently Working On
 
-<table border="0" width="100%">
+<table border="0" style="width: 100%;">
   <tr>
     <!-- Left Column: Bullet List -->
-    <td valign="top" width="80%">
+    <td valign="top" style="width: 75%;">
       <ul>
         <li>📊 Learning Data Analytics & Data Visualization</li>
         <li>🐍 Improving Python & SQL</li>
@@ -33,7 +33,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
       </ul>
     </td>
     <!-- Right Column: Buttons Stacked Vertically -->
-    <td valign="middle" align="right" width="30%">
+    <td valign="middle" align="right" style="width: 25%;">
       <a href="https://www.linkedin.com/in/yashaswini-polakonda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
