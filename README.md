@@ -57,28 +57,33 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 # GitHub Analytics
 
+# GitHub Analytics
+
 <table border="0" align="center" width="100%">
   <tr>
+    <!-- Left Card: Stats -->
     <td valign="top" align="center" width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats" />
     </td>
+    <!-- Right Card: Top Languages (Height attribute removed so it won't cut off) -->
     <td valign="top" align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <table border="0" align="center" width="100%">
   <tr>
+    <!-- Left Card: Streak -->
     <td valign="top" align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
     </td>
+    <!-- Right Card: Activity Graph -->
     <td valign="top" align="center" width="50%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-p05&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
     </td>
   </tr>
 </table>
-
 ---
 
 <div align="center">
