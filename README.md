@@ -39,8 +39,8 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 # GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
