@@ -44,7 +44,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=false"/>
 </p>
 
 <p align="center">
