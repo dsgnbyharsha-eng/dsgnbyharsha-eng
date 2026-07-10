@@ -30,37 +30,17 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 # 🛠 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="100%">
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,git,github,vscode" />
 </p>
-
-</td>
-
-<td valign="top" width="100%">
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
 # GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
