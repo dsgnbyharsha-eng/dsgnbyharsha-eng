@@ -65,7 +65,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
     </td>
     <!-- Right Card: Top Languages (Height attribute removed so it won't cut off) -->
     <td valign="top" align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
