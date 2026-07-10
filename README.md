@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Yashaswini
-### ECE Graduate • Aspiring Data Analyst • Exploring Data Analytics & AI
+## ECE Graduate • Aspiring Data Analyst • Exploring Data Analytics & AI
 
 *"Curious minds don't just collect data, they discover stories hidden within it."*
 
