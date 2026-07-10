@@ -30,7 +30,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
         <li>🤖 Exploring AI & Machine Learning</li>
         <li>🔌 Building projects combining Electronics & Data</li>
         <li>📚 Learning something new every day</li>
-      </ul><img src="https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/images/spacer.png" width="700" height="1" />
+      </ul>
     </td>
     <!-- Right Column: Buttons aligned to the center within their 150px column -->
     <td valign="middle" align="center" width="150">
