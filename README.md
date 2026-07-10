@@ -33,7 +33,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
       </ul>
     </td>
     <!-- Right Column: Buttons Stacked Vertically -->
-    <td valign="middle" align="center" width="30%">
+    <td valign="middle" align="right" width="30%">
       <a href="https://www.linkedin.com/in/yashaswini-polakonda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
