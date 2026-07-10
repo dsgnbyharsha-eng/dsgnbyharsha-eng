@@ -20,10 +20,10 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 ## 🌱 Currently Working On
 
-<table border="0" style="width: 100%;">
+<table border="0">
   <tr>
-    <!-- Left Column: Bullet List -->
-    <td valign="top" style="width: 75%;">
+    <!-- Left Column: Forced to be 700px wide -->
+    <td valign="top" width="700">
       <ul>
         <li>📊 Learning Data Analytics & Data Visualization</li>
         <li>🐍 Improving Python & SQL</li>
@@ -31,10 +31,12 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
         <li>🔌 Building projects combining Electronics & Data</li>
         <li>📚 Learning something new every day</li>
       </ul>
+      <!-- Invisible spacer to stretch the table box to the right -->
+      <img src="https://raw.githubusercontent.com/andriishulta/readme-quickstart/master/assets/transparent-spacer.png" width="700" height="1" alt="spacer" />
     </td>
-    <!-- Right Column: Buttons Stacked Vertically -->
-    <td valign="middle" align="right" style="width: 25%;">
-      <a href="https://www.linkedin.com/in/yashaswini-polakonda/" target="_blank">
+    <!-- Right Column: Buttons aligned to the center within their 150px column -->
+    <td valign="middle" align="center" width="150">
+      <a href="https://linkedin.com/in/yashaswini-polakonda" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <br/><br/>
