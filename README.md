@@ -20,11 +20,30 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 ## 🌱 Currently Working On
 
-- 📊 Learning Data Analytics & Data Visualization
-- 🐍 Improving Python & SQL
-- 🤖 Exploring AI & Machine Learning
-- 🔌 Building projects combining Electronics & Data
-- 📚 Learning something new every day
+<table border="0" width="100%">
+  <tr>
+    <!-- Left Column: Bullet List -->
+    <td valign="top" width="60%">
+      <ul>
+        <li>📊 Learning Data Analytics & Data Visualization</li>
+        <li>🐍 Improving Python & SQL</li>
+        <li>🤖 Exploring AI & Machine Learning</li>
+        <li>🔌 Building projects combining Electronics & Data</li>
+        <li>📚 Learning something new every day</li>
+      </ul>
+    </td>
+    <!-- Right Column: Buttons Stacked Vertically -->
+    <td valign="middle" align="center" width="40%">
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br/><br/>
+      <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,15 +57,27 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 # GitHub Analytics
 
-<p align="center">
-  <img width="48%",height="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="48%",height="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420"/>
-</p>
+<table border="0" align="center" width="100%">
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats" />
+    </td>
+    <td valign="top" align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-p05&theme=tokyo-night&hide_border=true" />
-</p>
+<table border="0" align="center" width="100%">
+  <tr>
+    <td valign="top" align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+    </td>
+    <td valign="top" align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-p05&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 
