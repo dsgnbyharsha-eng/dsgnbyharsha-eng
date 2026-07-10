@@ -38,21 +38,10 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 # GitHub Analytics
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=420"/>
+</p>
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true" />
