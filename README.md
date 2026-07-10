@@ -78,15 +78,27 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics Dashboard
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</p>
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-p05&theme=tokyo-night&hide_border=true&radius=10"/>
+
+</div>
 
 ---
 
