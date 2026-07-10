@@ -1,5 +1,6 @@
 <div align="left">
-# Hii! I'm Yashaswini
+  
+<title text="Hii! I'm Yashaswini"> </title>
 
 ### ECE Graduate • Aspiring Data Analyst • Exploring Data Analytics & AI
 
