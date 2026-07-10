@@ -23,7 +23,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 <table border="0" width="100%">
   <tr>
     <!-- Left Column: Bullet List -->
-    <td valign="top" width="60%">
+    <td valign="top" width="70%">
       <ul>
         <li>📊 Learning Data Analytics & Data Visualization</li>
         <li>🐍 Improving Python & SQL</li>
@@ -33,7 +33,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
       </ul>
     </td>
     <!-- Right Column: Buttons Stacked Vertically -->
-    <td valign="middle" align="center" width="40%">
+    <td valign="middle" align="center" width="30%">
       <a href="https://www.linkedin.com/in/yashaswini-polakonda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
@@ -60,11 +60,11 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 <table border="0" align="center" width="100%">
   <tr>
     <!-- Left Card: Stats -->
-    <td valign="top" align="center" width="50%">
+    <td valign="center" align="center" width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-p05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats" />
     </td>
     <!-- Right Card: Top Languages (Height attribute removed so it won't cut off) -->
-    <td valign="top" align="center" width="50%">
+    <td valign="center" align="center" width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-p05&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
@@ -73,11 +73,11 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 <table border="0" align="center" width="50%">
   <tr>
     <!-- Left Card: Streak -->
-    <td valign="top" align="center" width="50%">
+    <td valign="center" align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
     </td>
     <!-- Right Card: Activity Graph -->
-    <td valign="top" align="center" width="50%">
+    <td valign="center" align="center" width="50%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-p05&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
     </td>
   </tr>
