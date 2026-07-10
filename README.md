@@ -57,8 +57,6 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 # GitHub Analytics
 
-# GitHub Analytics
-
 <table border="0" align="center" width="100%">
   <tr>
     <!-- Left Card: Stats -->
@@ -72,7 +70,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
   </tr>
 </table>
 
-<table border="0" align="center" width="100%">
+<table border="0" align="center" width="50%">
   <tr>
     <!-- Left Card: Streak -->
     <td valign="top" align="center" width="50%">
@@ -84,6 +82,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
     </td>
   </tr>
 </table>
+
 ---
 
 <div align="center">
