@@ -102,26 +102,6 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 ---
 
-## Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Yashaswini-p05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashaswini-p05&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 ## Current Learning Journey
 
 <p align="center">
