@@ -10,7 +10,7 @@
 
 ---
 
-## Who I Am
+# Who I Am
 
 I'm an Electronics and Communication Engineering graduate passionate about Data Analytics, Artificial Intelligence, and IoT. I enjoy solving problems through data, exploring emerging technologies, and building projects that create real-world impact.
 
@@ -18,7 +18,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
 
 ---
 
-## 🌱 Currently Working On
+# 🌱 Currently Working On
 
 <table border="0">
   <tr>
