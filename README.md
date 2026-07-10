@@ -32,7 +32,9 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
         <li>📚 Learning something new every day</li>
       </ul>
       <!-- Invisible spacer to stretch the table box to the right -->
+      <ul>
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/1x1.png" width="700" height="1" alt="spacer" />
+      </ul>
     </td>
     <!-- Right Column: Buttons aligned to the center within their 150px column -->
     <td valign="middle" align="center" width="150">
