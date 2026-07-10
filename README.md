@@ -70,7 +70,7 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
   </tr>
 </table>
 
-<table border="0" align="center" width="50%">
+<table border="0" align="center" width="100%">
   <tr>
     <!-- Left Card: Streak -->
     <td valign="center" align="center" width="50%">
