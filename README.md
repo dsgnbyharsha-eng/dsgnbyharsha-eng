@@ -1,7 +1,11 @@
 <div align="center">
+  
 # Hi there, I'm Yashaswini
+
 ### **ECE Student • Aspiring Data Analyst • Exploring AI & IoT**
+
 *"Curious minds don't just collect data—they discover stories hidden within it."*
+
 </div>
 
 ---
