@@ -4,7 +4,7 @@
 
 ### ECE Graduate • Aspiring Data Analyst • Exploring Data Analytics & AI
 
-*"Curious minds don't just collect data—they discover stories hidden within it."*
+*"Curious minds don't just collect data, they discover stories hidden within it."*
 
 </div>
 
@@ -34,11 +34,11 @@ Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while wo
     </td>
     <!-- Right Column: Buttons Stacked Vertically -->
     <td valign="middle" align="center" width="40%">
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <a href="https://www.linkedin.com/in/yashaswini-polakonda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <br/><br/>
-      <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+      <a href="mailto:yashaswini.p05@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
     </td>
