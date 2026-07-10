@@ -1,50 +1,22 @@
 <div align="center">
-
-# Hi there, I'm Yashaswini Polakonda 👋
-
+# Hi there, I'm Yashaswini
 ### **ECE Student • Aspiring Data Analyst • Exploring AI & IoT**
-
 *"Curious minds don't just collect data—they discover stories hidden within it."*
-
 </div>
 
 ---
 
-## 👩‍💻 Who I Am
+## Who I Am
 
-```python
-class Yashaswini:
+Hi! I'm Yashaswini
 
-    def __init__(self):
-        self.role = "Final Year ECE Student"
+I'm an Electronics and Communication Engineering graduate passionate about Data Analytics, Artificial Intelligence, and IoT. I enjoy solving problems through data, exploring emerging technologies, and building projects that create real-world impact.
 
-        self.interests = [
-            "Data Analytics",
-            "Artificial Intelligence",
-            "IoT",
-            "Data Visualization"
-        ]
-
-        self.currently_learning = [
-            "Python",
-            "SQL",
-            "Pandas",
-            "Power BI"
-        ]
-
-        self.goal = (
-            "Build data-driven solutions that solve real-world problems."
-        )
-
-    def philosophy(self):
-        return (
-            "Stay curious. Keep learning. Solve meaningful problems."
-        )
-```
+Currently, I'm deepening my skills in Python, SQL, Pandas, and Power BI while working toward a career in Data Analytics. I believe in continuous learning, thoughtful problem-solving, and using data to make informed decisions.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
 - 📊 Learning Data Analytics and Data Visualization
 - 🐍 Improving Python & SQL skills
@@ -54,7 +26,7 @@ class Yashaswini:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -77,7 +49,7 @@ class Yashaswini:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - ✅ Data Analytics Essentials
 - ✅ Deloitte Australia – Data Analytics Job Simulation
@@ -85,7 +57,7 @@ class Yashaswini:
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - 📊 Data Analytics
 - 📈 Business Intelligence
@@ -96,7 +68,7 @@ class Yashaswini:
 
 ---
 
-## 📌 My Approach
+## My Approach
 
 > Every dataset tells a story.
 >
@@ -106,7 +78,7 @@ class Yashaswini:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -118,7 +90,7 @@ class Yashaswini:
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
 
@@ -128,7 +100,7 @@ class Yashaswini:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -138,19 +110,11 @@ class Yashaswini:
 
 ---
 
-## 🌱 Current Learning Journey
+## Current Learning Journey
 
-```text
-Python              █████████░░░
-
-SQL                 ████████░░░
-
-Pandas              ███████░░░░
-
-Power BI            ██████░░░░░
-
-Machine Learning    ███░░░░░░░░
-```
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yashaswini-p05&layout=compact&theme=nord&border_color=ffffff&title_color=ffffff" alt="Top Languages" />
+</p>
 
 ---
 
