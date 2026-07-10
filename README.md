@@ -2,7 +2,7 @@
 
 # Hi there, I'm Yashaswini
 
-### Electronics & Communication Engineering Graduate • Aspiring Data Analyst • Exploring AI & IoT
+### ECE Graduate • Aspiring Data Analyst • Exploring Data Analytics & AI
 
 *"Curious minds don't just collect data—they discover stories hidden within it."*
 
